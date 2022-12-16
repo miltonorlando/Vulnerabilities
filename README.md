@@ -6,3 +6,4 @@ In this repository I will be discussing different types of vulnerabilities along
 - SQL Injection
 - Remote File Inclusion (RFI)
 - Path Traversal
+- HTML Injection
