@@ -7,3 +7,4 @@ In this repository I will be discussing different types of vulnerabilities along
 - Remote File Inclusion (RFI)
 - Path Traversal
 - HTML Injection
+- OS Command Injection
