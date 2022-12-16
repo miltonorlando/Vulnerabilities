@@ -5,3 +5,4 @@ In this repository I will be discussing different types of vulnerabilities along
 - Cross-Site Scripting (XSS)
 - SQL Injection
 - Remote File Inclusion (RFI)
+- Path Traversal
