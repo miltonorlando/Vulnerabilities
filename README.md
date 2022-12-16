@@ -4,4 +4,4 @@ In this repository I will be discussing different types of vulnerabilities along
 ## Table of Contents
 - Cross-Site Scripting (XSS)
 - SQL Injection
-- Remote File Inclusion
+- Remote File Inclusion (RFI)
